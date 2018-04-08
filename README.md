@@ -61,8 +61,7 @@ directories.readMembers('AAD')
 ## 注意事项
 
 - 全部代码使用ES6进行编写, 您可能需要babel的协助
-- 推荐使用Node.js>=8.0进行开发, 否则可能需要使用`babel`进行转译或者使用`--harmony`模式来执行本程序
-- 执行测试时请先行配置以下环境变量
+- 执行测试时请先行配置以下环境变量
   - `AAD_TENLENT_ID` Azure AD 租户ID
   - `AAD_CLIENT_ID` Azure AD 应用客户端ID
   - `AAD_USER_NAME` Azure AD 用户名
