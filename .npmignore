@@ -16,11 +16,7 @@ logs
 .vscode
 .idea
 
-# Testing Starter
-test
-test.sh
-test.local.sh
-
 # Others
+test
 *.swp
 .tmp
